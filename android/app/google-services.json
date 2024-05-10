@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553098717106",
+    "project_id": "officeadministratorauth-54de6",
+    "storage_bucket": "officeadministratorauth-54de6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553098717106:android:6b5f12d7d78da6fdd226ab",
+        "android_client_info": {
+          "package_name": "com.example.office_administrator_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQh6i-Rn1HMMraA-UQqUahHFj8Dapv46o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

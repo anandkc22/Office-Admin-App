@@ -1,0 +1,1 @@
+ C:\\Users\\kcana\\OneDrive\\Documents\\FlutterProjects\\office_administrator_app\\.dart_tool\\flutter_build\\f0855166a5456e462ebad22ccc3e9079\\native_assets.yaml: 
